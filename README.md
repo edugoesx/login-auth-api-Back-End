@@ -33,8 +33,3 @@ cd login-auth-api
 ./mvnw spring-boot:run
 
 5. A API estará rodando em http://localhost:8080 (ou a porta configurada).
-
-Bash
-
-./mvnw spring-boot:run
-A API estará rodando em http://localhost:8080 (ou a porta configurada).
